@@ -1,0 +1,37 @@
+table, th, td {
+  border: 1px solid black;
+  background-color: green;
+  width: 30%;
+}
+img {
+  border: 3px solid black;
+  border-radius: 10px;
+  opacity: 0.9;
+  width:200px;
+  height:400px;
+  margin: auto;
+}
+body {
+  background-color: lightblue;
+}
+h1 {
+  color: navy;
+  margin-left: 10px;
+}
+h2 {
+  color: navy;
+  margin-left: 10px;
+}
+#cuprins{
+text-align: center;
+  color: red;
+}
+img.cuprins {
+    width: 10%;
+    height: 20%;
+     margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
+	
